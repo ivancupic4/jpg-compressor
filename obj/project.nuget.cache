@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HVkGQfPw/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\JpgCompressor\\JpgCompressor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\sixlabors.imagesharp\\4.1.3\\sixlabors.imagesharp.4.1.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
